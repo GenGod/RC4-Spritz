@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.363,=W:\Universitet\!Курс№3_Практика\PROTON2\spritz.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.439,W:\Universitet\!Курс№3_Практика\PROTON2\Project1PCH1.h=W:\Universitet\!Курс№3_Практика\PROTON2\Proton_spritzPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.460,C:\Users\81k5_Pr0g3r\Documents\Embarcadero\Studio\Projects\Project1.cbproj=W:\Universitet\!Курс№3_Практика\PROTON2\Proton_spritz.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.006,C:\Users\81k5_Pr0g3r\Documents\Embarcadero\Studio\Projects\Unit1.h=W:\Universitet\!Курс№3_Практика\PROTON2\FormUnit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.006,C:\Users\81k5_Pr0g3r\Documents\Embarcadero\Studio\Projects\Unit1.dfm=W:\Universitet\!Курс№3_Практика\PROTON2\FormUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.129,=C:\Users\81k5_Pr0g3r\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.471,C:\Users\81k5_Pr0g3r\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=W:\Universitet\!Курс№3_Практика\PROTON2\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.006,C:\Users\81k5_Pr0g3r\Documents\Embarcadero\Studio\Projects\Unit1.cpp=W:\Universitet\!Курс№3_Практика\PROTON2\FormUnit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.348,=W:\Universitet\!Курс№3_Практика\PROTON2\spritz.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.263,=C:\Users\81k5_Pr0g3r\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

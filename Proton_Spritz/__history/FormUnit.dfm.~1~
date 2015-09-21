@@ -1,0 +1,61 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 406
+  ClientWidth = 538
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 105
+    Top = 37
+    Width = 401
+    Height = 20
+    Caption = 'Label1'
+  end
+  object OpenButton: TButton
+    Left = 24
+    Top = 32
+    Width = 75
+    Height = 25
+    Caption = 'Open File'
+    TabOrder = 0
+    OnClick = OpenButtonClick
+  end
+  object KeyEdit: TEdit
+    Left = 24
+    Top = 80
+    Width = 489
+    Height = 21
+    TabOrder = 1
+    Text = 'KeyEdit'
+  end
+  object TestButton: TButton
+    Left = 232
+    Top = 134
+    Width = 75
+    Height = 44
+    Caption = 'Start Test'
+    TabOrder = 2
+    OnClick = TestButtonClick
+  end
+  object LogMemo: TMemo
+    Left = 8
+    Top = 184
+    Width = 522
+    Height = 214
+    Lines.Strings = (
+      'LogMemo')
+    ScrollBars = ssBoth
+    TabOrder = 3
+  end
+  object OpenDialog1: TOpenDialog
+  end
+end
